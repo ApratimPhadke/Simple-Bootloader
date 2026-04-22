@@ -1,0 +1,4 @@
+../Src/main.c:117:6:init_gpio	4	static
+../Src/main.c:124:6:led_blink	32	static
+../Src/main.c:132:6:jump_to_app	16	static,ignoring_inline_asm
+../Src/main.c:138:5:main	16	static
